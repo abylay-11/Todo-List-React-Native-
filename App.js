@@ -1,7 +1,7 @@
 import { View, StyleSheet, FlatList, Text } from "react-native";
 import React, { useState } from "react";
 
-// * Components
+// * Components all
 import Header from "./components/Header";
 import ListItem from "./components/ListItem";
 import Form from "./components/Form";
